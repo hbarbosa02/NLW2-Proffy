@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./extra/images/logo.svg"/>
+  <img src="./extra/images/landing.svg"/>
   <br><br>
 </p>
 
-<h1 align="center">NLW#2</h1>
+<h1 align="center">NLW#2 Proffy</h1>
 
 ## 📑 Índice
 
