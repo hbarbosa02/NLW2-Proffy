@@ -1,9 +1,5 @@
 > :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
 
-# :pushpin: Table of Contents
-
-- [Technologies](#computer-technologies)
-
 # :computer: Technologies
 
 This project was made using the follow technologies:
@@ -11,6 +7,7 @@ This project was made using the follow technologies:
 <ul>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
+  <li><a href="https://www.docker.com/">Docker</a></li>
 </ul>
 
 ### 📦 Run API
