@@ -42,7 +42,7 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
 
 - Clonar Repositório: `https://github.com/hbarbosa02/NLW2-Proffy.git`
 
-Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'server' para rodar o back-end:
+Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'backend' para rodar o back-end:
 
 ```bash
 
